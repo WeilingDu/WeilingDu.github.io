@@ -445,11 +445,11 @@ body {
 .header-inner {
   margin: 0 auto;
   padding: 100px 0 70px;
-  width: 700px;
+  width: 800px;
 }
 @media (min-width: 1600px) {
   .container .header-inner {
-    width: 900px;
+    width: 1000px;
   }
 }
 .main {
@@ -457,11 +457,11 @@ body {
 }
 .main-inner {
   margin: 0 auto;
-  width: 700px;
+  width: 800px;
 }
 @media (min-width: 1600px) {
   .container .main-inner {
-    width: 900px;
+    width: 1000px;
   }
 }
 .footer {
@@ -474,11 +474,11 @@ body {
 .footer-inner {
   box-sizing: border-box;
   margin: 20px auto;
-  width: 700px;
+  width: 800px;
 }
 @media (min-width: 1600px) {
   .container .footer-inner {
-    width: 900px;
+    width: 1000px;
   }
 }
 pre,
@@ -1822,7 +1822,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #b05d6e;
+  background: #cc494e;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2774,11 +2774,13 @@ hr {
 .posts-expand .post-meta {
   margin-top: 5px;
   margin-bottom: 20px;
+  text-align: center;
 }
 .posts-expand .post-title {
   position: relative;
   font-size: 26px;
   font-weight: 400;
+  text-align: center;
 }
 @media (max-width: 767px) {
   .posts-expand .post-title {
@@ -2802,7 +2804,7 @@ hr {
   margin: 0;
 }
 .posts-expand .post-tags {
-  text-align: left;
+  text-align: center;
 }
 .posts-expand .post-tags a {
   padding: 1px 5px;
@@ -2817,7 +2819,7 @@ hr {
 }
 .post-button {
   margin-top: 20px;
-  text-align: left;
+  text-align: center;
 }
 .post-button a {
   padding: 0;
