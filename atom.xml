@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.weilingdu.xyz/"/>
-  <updated>2019-07-08T04:00:00.000Z</updated>
+  <updated>2019-07-06T15:26:12.136Z</updated>
   <id>http://www.weilingdu.xyz/</id>
   
   <author>
@@ -17,43 +17,66 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test2</title>
-    <link href="http://www.weilingdu.xyz/test2/"/>
-    <id>http://www.weilingdu.xyz/test2/</id>
-    <published>2019-07-06T09:17:44.000Z</published>
-    <updated>2019-07-08T04:00:00.000Z</updated>
+    <title>Notebook in July</title>
+    <link href="http://www.weilingdu.xyz/July-Notebook/"/>
+    <id>http://www.weilingdu.xyz/July-Notebook/</id>
+    <published>2019-07-06T12:50:55.000Z</published>
+    <updated>2019-07-06T15:26:12.136Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="hello"><a href="#hello" class="headerlink" title="hello"></a>hello</h2>]]></content>
+    <content type="html"><![CDATA[<table><thead><tr><th align="center">Date</th><th align="center">Study</th><th align="center">English</th><th align="center">Fun</th></tr></thead><tbody><tr><td align="center">07.01</td><td align="center">Make the mindmap of computational social science textbook and clear up notes.</td><td align="center">Umm..Textbook is English.</td><td align="center">/</td></tr><tr><td align="center">07.02</td><td align="center">Finish the final exam of computational social science.</td><td align="center">/</td><td align="center">/</td></tr><tr><td align="center">07.03</td><td align="center">Read paper on big data and prepare tomorrow paper pre.</td><td align="center">Paper is English hhh.</td><td align="center">/</td></tr><tr><td align="center">07.04</td><td align="center">Finish paper pre!! Start to build my blog.</td><td align="center">/</td><td align="center">吃了元气寿司😋</td></tr><tr><td align="center">07.05</td><td align="center">Build my blog.</td><td align="center">Umm..some software courses are English..👀</td><td align="center">吃了天瑞轩！</td></tr><tr><td align="center">07.06</td><td align="center">Finish building my blog. Make assighments for my group members.</td><td align="center">/</td><td align="center">Building a blog is fun!!</td></tr><tr><td align="center">…</td><td align="center">…</td><td align="center">…</td><td align="center">…</td></tr></tbody></table><style>table th:nth-of-type(1) {    width: 100px;}table th:nth-of-type(2) {    width: 300px;}</style>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;hello&quot;&gt;&lt;a href=&quot;#hello&quot; class=&quot;headerlink&quot; title=&quot;hello&quot;&gt;&lt;/a&gt;hello&lt;/h2&gt;
+        &lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&quot;center&quot;&gt;Date&lt;/th&gt;
+&lt;th align=&quot;center&quot;&gt;Study&lt;/th&gt;
+&lt;th align=&quot;center&quot;&gt;English&lt;/th&gt;
+&lt;th align=&quot;center&quot;&gt;Fun&lt;/th&gt;
+
       
     
     </summary>
+    
+      <category term="Journal" scheme="http://www.weilingdu.xyz/categories/Journal/"/>
+    
+      <category term="Notebook" scheme="http://www.weilingdu.xyz/categories/Journal/Notebook/"/>
     
     
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://www.weilingdu.xyz/hello-world/"/>
-    <id>http://www.weilingdu.xyz/hello-world/</id>
-    <published>2019-07-04T09:26:00.676Z</published>
-    <updated>2019-07-04T09:26:00.676Z</updated>
+    <title>Plan in July</title>
+    <link href="http://www.weilingdu.xyz/Plan-in-July/"/>
+    <id>http://www.weilingdu.xyz/Plan-in-July/</id>
+    <published>2019-07-06T12:49:24.000Z</published>
+    <updated>2019-07-06T15:25:57.942Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<table><thead><tr><th align="center">Categories</th><th align="center">Content</th><th align="center">Progress</th></tr></thead><tbody><tr><td align="center">Build my blog</td><td align="center">Build my personal blog with hexo and github</td><td align="center">■■■■■■■■■■</td></tr><tr><td align="center">Computational social science</td><td align="center">Finish the final proposal of 15 pages with teammates</td><td align="center">□□□□□□□□□□</td></tr><tr><td align="center">Prepare for IELTS</td><td align="center">Practice listening and recite words</td><td align="center">□□□□□□□□□□</td></tr><tr><td align="center">Freshman Project</td><td align="center">Prepare the pre-presentation</td><td align="center">■■■■■□□□□□</td></tr><tr><td align="center"></td><td align="center">Finish the searching function and the presenting news function</td><td align="center">□□□□□□□□□□</td></tr><tr><td align="center"></td><td align="center">Study machine learning</td><td align="center">□□□□□□□□□□</td></tr><tr><td align="center"></td><td align="center">Build the clusting based on machine learning</td><td align="center">□□□□□□□□□□</td></tr><tr><td align="center">Cognition Practice</td><td align="center">Lasted a week and finish homework</td><td align="center">□□□□□□□□□□</td></tr></tbody></table><style>table th:nth-of-type(1) {    width: 180px;}table th:nth-of-type(2) {    width: 370px;}</style>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&quot;center&quot;&gt;Categories&lt;/th&gt;
+&lt;th align=&quot;center&quot;&gt;Content&lt;/th&gt;
+&lt;th align=&quot;center&quot;&gt;Progress&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbo
       
     
     </summary>
+    
+      <category term="Journal" scheme="http://www.weilingdu.xyz/categories/Journal/"/>
+    
+      <category term="Plan" scheme="http://www.weilingdu.xyz/categories/Journal/Plan/"/>
     
     
   </entry>
