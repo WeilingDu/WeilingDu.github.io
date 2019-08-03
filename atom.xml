@@ -41,10 +41,10 @@
     
     </summary>
     
+      <category term="Journal" scheme="http://www.weilingdu.xyz/categories/Journal/"/>
     
-      <category term="Journal" scheme="http://www.weilingdu.xyz/tags/Journal/"/>
+      <category term="Notebook" scheme="http://www.weilingdu.xyz/categories/Journal/Notebook/"/>
     
-      <category term="Notebook" scheme="http://www.weilingdu.xyz/tags/Notebook/"/>
     
   </entry>
   
