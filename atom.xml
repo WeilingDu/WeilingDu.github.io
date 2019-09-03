@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.weilingdu.xyz/"/>
-  <updated>2019-08-31T15:00:00.000Z</updated>
+  <updated>2019-09-03T15:00:00.000Z</updated>
   <id>http://www.weilingdu.xyz/</id>
   
   <author>
@@ -15,6 +15,39 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Plan in September</title>
+    <link href="http://www.weilingdu.xyz/Plan1909/"/>
+    <id>http://www.weilingdu.xyz/Plan1909/</id>
+    <published>2019-09-01T03:55:18.000Z</published>
+    <updated>2019-09-03T15:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<table><thead><tr><th align="center">Categories</th><th align="center">Content</th><th align="center">Progress</th></tr></thead><tbody><tr><td align="center">Freshman Project</td><td align="center">Model Comparison Function</td><td align="center">■■■■■■□□□□</td></tr><tr><td align="center"></td><td align="center">News Present Function</td><td align="center">■■■■■■□□□□</td></tr><tr><td align="center"></td><td align="center">News Analysis Function</td><td align="center">□□□□□□□□□□</td></tr><tr><td align="center"></td><td align="center">Main Page</td><td align="center">□□□□□□□□□□</td></tr><tr><td align="center"></td><td align="center">Statistics Funtion</td><td align="center">□□□□□□□□□□</td></tr><tr><td align="center"></td><td align="center">User Center</td><td align="center">□□□□□□□□□□</td></tr><tr><td align="center"></td><td align="center">Demo</td><td align="center">□□□□□□□□□□</td></tr><tr><td align="center"></td><td align="center">Report</td><td align="center">□□□□□□□□□□</td></tr><tr><td align="center"></td><td align="center">Presentation</td><td align="center">□□□□□□□□□□</td></tr><tr><td align="center">Mathematical modeling</td><td align="center">Latex</td><td align="center">□□□□□□□□□□</td></tr><tr><td align="center"></td><td align="center">MySQL</td><td align="center">□□□□□□□□□□</td></tr><tr><td align="center"></td><td align="center">competition</td><td align="center">□□□□□□□□□□</td></tr><tr><td align="center">Listening</td><td align="center">VOA</td><td align="center"></td></tr></tbody></table><style>table th:nth-of-type(1) {    width: 180px;}table th:nth-of-type(2) {    width: 370px;}</style>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&quot;center&quot;&gt;Categories&lt;/th&gt;
+&lt;th align=&quot;center&quot;&gt;Content&lt;/th&gt;
+&lt;th align=&quot;center&quot;&gt;Progress&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbo
+      
+    
+    </summary>
+    
+      <category term="Journal" scheme="http://www.weilingdu.xyz/categories/Journal/"/>
+    
+      <category term="Plan" scheme="http://www.weilingdu.xyz/categories/Journal/Plan/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Notebook in August</title>
